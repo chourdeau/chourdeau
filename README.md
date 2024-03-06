@@ -83,6 +83,7 @@
   * [Prestashop](https://github.com/PrestaShop/PrestaShop) : PrestaShop is the universal open-source software platform to build your e-commerce solution.
   * [N2F](https://www.n2f.com/fr/note-de-frais/) : Expense report management software (SaaS)
   * [Microsoft Dynamics AX/365](https://learn.microsoft.com/en-us/dynamicsax-2012/appuser-itpro/introduction-to-microsoft-dynamics-ax-2012) : Microsoft Dynamics AX 2012, an ERP solution for midsize and larger organizations
+  * [Canon Therefore](https://www.canon.fr/business/products/software/therefore/) : Therefore™ information management software is a scalable solution designed to securely store, manage and process all types of business information
     
 <!---
 chourdeau/chourdeau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
