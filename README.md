@@ -16,7 +16,18 @@
 * [Mémoires vives](https://www.amazon.fr/M%C3%A9moires-Vives-Edward-Snowden/dp/2021441040), Edward Snowden, Editions Seuil
 * [Steve Jobs](https://www.amazon.fr/Steve-Jobs-Walter-Isaacson/dp/2709638320), Walter Isaacson, Editions JCLattès
 
-
+# Deployed !
+* Monitoring
+* * [Netdata](https://github.com/netdata/netdata) : The open-source observability platform everyone needs!
+  * [Zabbix](https://github.com/zabbix/zabbix) : Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.
+  * [BetterStack Uptime](https://betterstack.com/uptime) : Monitoring, Alerting and status page
+* [Glpi](https://github.com/glpi-project/glpi) : GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
+* [OCS-Inventory](https://github.com/OCSInventory-NG/OCSInventory-Server) : Communication server of OCS Inventory
+* [Bitwarden](https://github.com/bitwarden/web) : The website vault (vault.bitwarden.com)
+* [Metabase](https://github.com/metabase/metabase) : The simplest, fastest way to get business intelligence and analytics to everyone in your company
+* [Mantis BT](https://github.com/mantisbt/mantisbt) : MantisBT is a popular free web-based bug tracking system
+* [Squash TM](https://gitlab.com/henixdevelopment/open-source/squash) : Squash, un outil ergonomique, complet et intuitif pour la gestion de vos tests
+* 
 <!---
 chourdeau/chourdeau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
