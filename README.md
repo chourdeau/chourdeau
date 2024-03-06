@@ -71,6 +71,7 @@
   * [Sonicwall TZ Series](https://www.sonicwall.com/products/firewalls/entry-level/) : Protect your small business or branch location from intrusion, malware and ransomware with an easy-to-use, integrated security solution designed specifically for your needs
   * [Sonicwall NSV Series](https://www.sonicwall.com/products/firewalls/nsv-series/) : SonicWall NSv firewalls are designed to secure the cloud and shield your enterprise from the broadest range of attacks and common network-based exploits.
   * [Fortinet Firewall](https://www.fortinet.com/products/next-generation-firewall) :  Fortinet next-generation firewall (NGFW) products can provide high-performance & consolidated security
+  * [Vade Secure for M365](https://www.vadesecure.com/en/dedicated-email-security-for-o365/) : Vade for M365 is a Microsoft 365 email security solution that provides integrated, low-touch features that are scalable, easy to use and manage
 
 <!---
 chourdeau/chourdeau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
