@@ -36,6 +36,12 @@
 * Database
   * [PostgreSQL](https://www.postgresql.org/) : The World's Most Advanced Open Source Relational Database
   * [MySQL](https://www.mysql.com/fr) : The world's most popular open source database
+  * [Debezium](https://github.com/debezium/debezium) : Change data capture for a variety of databases
+* Cloud computing
+  * [Google Cloud Compute Engine](https://cloud.google.com/products/compute/) : Easily create and run online VMs on **Google Cloud**.
+  * [Google Cloud SQL](https://cloud.google.com/sql/) : Cloud SQL for MySQL, PostgreSQL, and SQL Server
+  * [Google Cloud VPN](https://cloud.google.com/network-connectivity/docs/vpn/concepts/overview) : Cloud VPN securely connects your peer network to your Virtual Private Cloud (VPC) network through an IPsec VPN connection
+  * [Google Cloud Pub/Sub](https://cloud.google.com/pubsub/docs/overview) : Pub/Sub is used for streaming analytics and data integration pipelines to load and distribute data
 
 <!---
 chourdeau/chourdeau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
