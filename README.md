@@ -27,12 +27,14 @@
   * [Bitwarden](https://github.com/bitwarden/web) : Bitwarden easily secures all your passwords, passkeys, and sensitive information (Secret management)
   * [Kaspersky Endpoint Security](https://www.kaspersky.fr/enterprise-security/endpoint) : Protect your devices from cyberthreats
   * [Symantec EndPoint Protection](https://www.broadcom.com/products/cybersecurity/endpoint) : Symantec protects all your traditional and mobile endpoint devices with innovative technologies for attack surface reduction, attack prevention, breach prevention...
+  * [Veeam Backup & Replication](https://www.veeam.com/vm-backup-recovery-replication-software.html) : Veeam Backup & Replication. Secure Backup, Clean Recovery and Data Resilience – Delivered Instantly
 * Business Intelligence
   * [Metabase](https://github.com/metabase/metabase) : The simplest, fastest way to get business intelligence and analytics to everyone in your company
   * [MyReport](https://www.myreport.fr/) : MyReport permet aux PME de piloter simplement leur activité grâce à des données fiables et centralisées
 * Project management
   * [Mantis BT](https://github.com/mantisbt/mantisbt) : MantisBT is a popular free web-based bug tracking system
   * [Squash TM](https://gitlab.com/henixdevelopment/open-source/squash) : Squash, un outil ergonomique, complet et intuitif pour la gestion de vos tests
+  * [Trello](https://trello.com/home.html) : Infinitely flexible. Incredibly productive for teams of all sizes. Trello manages everything, from big project details to micro tasks
 * Low code / No code
   * [Budibase](https://github.com/Budibase/budibase) : Low code platform for building business apps and workflows in minutes.
 * Database
@@ -45,7 +47,10 @@
   * [Google Cloud SQL](https://cloud.google.com/sql/) : Cloud SQL for MySQL, PostgreSQL, and SQL Server
   * [Google Cloud VPN](https://cloud.google.com/network-connectivity/docs/vpn/concepts/overview) : Cloud VPN securely connects your peer network to your Virtual Private Cloud (VPC) network through an IPsec VPN connection
   * [Google Cloud Pub/Sub](https://cloud.google.com/pubsub/docs/overview) : Pub/Sub is used for streaming analytics and data integration pipelines to load and distribute data
-
+* Communication
+  * [OVH Telecom](https://www.ovhtelecom.fr/) : OVH Télécom est un opérateur télécom alternatif qui propose des solutions de téléphonie, d'Internet, de messagerie et de communication sécurisée et fiable
+  * [Faxbis/Smsbis](https://www.avmup.com/telephonie-d-entreprise/service-cloud-de-fax-mail) : Service Cloud de Mail-to-Fax / Fax-to-Mail
+  * [Microsoft Office 365](https://www.office.com/) : Collaborate for free with online versions of Microsoft Word, PowerPoint, Excel, and OneNote
 * [Vmware Vsphere](https://www.vmware.com/products/vsphere.html) : VMware vSphere is a server virtualization software that optimizes data center performance, efficiency and innovation
 * 
 <!---
