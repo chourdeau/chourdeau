@@ -23,8 +23,10 @@
   * [BetterStack Uptime](https://betterstack.com/uptime) : Monitoring, Alerting and status page
 * [Glpi](https://github.com/glpi-project/glpi) : GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
 * [OCS-Inventory](https://github.com/OCSInventory-NG/OCSInventory-Server) : Communication server of OCS Inventory
-* Secret management
-  * [Bitwarden](https://github.com/bitwarden/web) : The website vault (vault.bitwarden.com)
+* Security
+  * [Bitwarden](https://github.com/bitwarden/web) : Bitwarden easily secures all your passwords, passkeys, and sensitive information (Secret management)
+  * [Kaspersky Endpoint Security](https://www.kaspersky.fr/enterprise-security/endpoint) : Protect your devices from cyberthreats
+  * [Symantec EndPoint Protection](https://www.broadcom.com/products/cybersecurity/endpoint) : Symantec protects all your traditional and mobile endpoint devices with innovative technologies for attack surface reduction, attack prevention, breach prevention...
 * Business Intelligence
   * [Metabase](https://github.com/metabase/metabase) : The simplest, fastest way to get business intelligence and analytics to everyone in your company
   * [MyReport](https://www.myreport.fr/) : MyReport permet aux PME de piloter simplement leur activité grâce à des données fiables et centralisées
@@ -37,12 +39,15 @@
   * [PostgreSQL](https://www.postgresql.org/) : The World's Most Advanced Open Source Relational Database
   * [MySQL](https://www.mysql.com/fr) : The world's most popular open source database
   * [Debezium](https://github.com/debezium/debezium) : Change data capture for a variety of databases
+  * [SQL Server](https://www.microsoft.com/en-us/sql-server/) : Microsoft SQL Server database
 * Cloud computing
   * [Google Cloud Compute Engine](https://cloud.google.com/products/compute/) : Easily create and run online VMs on **Google Cloud**.
   * [Google Cloud SQL](https://cloud.google.com/sql/) : Cloud SQL for MySQL, PostgreSQL, and SQL Server
   * [Google Cloud VPN](https://cloud.google.com/network-connectivity/docs/vpn/concepts/overview) : Cloud VPN securely connects your peer network to your Virtual Private Cloud (VPC) network through an IPsec VPN connection
   * [Google Cloud Pub/Sub](https://cloud.google.com/pubsub/docs/overview) : Pub/Sub is used for streaming analytics and data integration pipelines to load and distribute data
 
+* [Vmware Vsphere](https://www.vmware.com/products/vsphere.html) : VMware vSphere is a server virtualization software that optimizes data center performance, efficiency and innovation
+* 
 <!---
 chourdeau/chourdeau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
