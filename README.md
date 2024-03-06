@@ -49,20 +49,16 @@
 * 🖥️Compute
   * [Google Cloud Compute Engine](https://cloud.google.com/products/compute/) : Easily create and run online VMs on **Google Cloud**.
   * [Vmware Vsphere](https://www.vmware.com/products/vsphere.html) : VMware vSphere is a server virtualization software that optimizes data center performance, efficiency and innovation
+  * [Microsoft Windows Server](https://www.microsoft.com/fr-fr/windows-server) : Windows Server is the platform for building an infrastructure of connected applications, networks, and web services
+  * [Linux Ubuntu Server](https://www.ubuntu-fr.org/) : Ubuntu is an open-source software platform that runs everywhere from the PC to the server and the cloud.
    
 * 📶Network
   * [Google Cloud VPN](https://cloud.google.com/network-connectivity/docs/vpn/concepts/overview) : Cloud VPN securely connects your peer network to your Virtual Private Cloud (VPC) network through an IPsec VPN connection
   * [Tailscale](https://github.com/tailscale/tailscale) : The easiest, most secure way to use WireGuard and 2FA.
+    
 * ⚙️Integration data
   * [Google Cloud Pub/Sub](https://cloud.google.com/pubsub/docs/overview) : Pub/Sub is used for streaming analytics and data integration pipelines to load and distribute data
-    
-* 🗣️Communication
-  * [OVH Telecom](https://www.ovhtelecom.fr/) : OVH Télécom is an alternative telecom operator offering secure and reliable telephony, Internet, messaging and communication solutions.
-  * [Faxbis/Smsbis](https://www.avmup.com/telephonie-d-entreprise/service-cloud-de-fax-mail) : Cloud Service for Mail-to-Fax / Fax-to-Mail
-  * [Microsoft Office 365](https://www.office.com/) : Collaborate for free with online versions of Microsoft Word, PowerPoint, Excel, and OneNote
-  * [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software) : Collaborate more effectively with a faster, simpler, smarter, and more flexible Teams
-  * [Slack](https://slack.com/) : Slack is the AI-powered platform for work bringing all of your conversations, apps, and customers together in one place.
-    
+       
 * 🔑Security
   * [Bitwarden](https://github.com/bitwarden/web) : Bitwarden easily secures all your passwords, passkeys, and sensitive information (Secret management)
   * [Kaspersky Endpoint Security](https://www.kaspersky.fr/enterprise-security/endpoint) : Protect your devices from cyberthreats
@@ -72,7 +68,20 @@
   * [Sonicwall NSV Series](https://www.sonicwall.com/products/firewalls/nsv-series/) : SonicWall NSv firewalls are designed to secure the cloud and shield your enterprise from the broadest range of attacks and common network-based exploits.
   * [Fortinet Firewall](https://www.fortinet.com/products/next-generation-firewall) :  Fortinet next-generation firewall (NGFW) products can provide high-performance & consolidated security
   * [Vade Secure for M365](https://www.vadesecure.com/en/dedicated-email-security-for-o365/) : Vade for M365 is a Microsoft 365 email security solution that provides integrated, low-touch features that are scalable, easy to use and manage
+  * [Cloudflare](https://www.cloudflare.com/) : Connect, Protect and Build Everywhere | Cloudflare. Discover the connectivity cloud. Regain control while connecting and protecting your people, apps and data everywhere (CDN)
 
+* 🗣️Communication
+  * [OVH Telecom](https://www.ovhtelecom.fr/) : OVH Télécom is an alternative telecom operator offering secure and reliable telephony, Internet, messaging and communication solutions.
+  * [Faxbis/Smsbis](https://www.avmup.com/telephonie-d-entreprise/service-cloud-de-fax-mail) : Cloud Service for Mail-to-Fax / Fax-to-Mail
+  * [Microsoft Office 365](https://www.office.com/) : Collaborate for free with online versions of Microsoft Word, PowerPoint, Excel, and OneNote
+  * [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software) : Collaborate more effectively with a faster, simpler, smarter, and more flexible Teams
+  * [Slack](https://slack.com/) : Slack is the AI-powered platform for work bringing all of your conversations, apps, and customers together in one place.
+  * [Brevo](https://www.brevo.com/fr/products/transactional-email/) : Email transactionnal
+    
+* Business Solution
+  * [Prestashop](https://github.com/PrestaShop/PrestaShop) : PrestaShop is the universal open-source software platform to build your e-commerce solution.
+  * [N2F](https://www.n2f.com/fr/note-de-frais/) : Expense report management software (SaaS)
+    
 <!---
 chourdeau/chourdeau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
