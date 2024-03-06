@@ -35,6 +35,7 @@
   * [Squash TM](https://gitlab.com/henixdevelopment/open-source/squash) : Squash, un outil ergonomique, complet et intuitif pour la gestion de vos tests
   * [Microsoft Planner](https://tasks.office.com/) : Microsoft Planner. A simple, visual way to organize teamwork.
   * [Trello](https://trello.com/home.html) : Infinitely flexible. Incredibly productive for teams of all sizes. Trello manages everything, from big project details to micro tasks
+  * [Bookstack](https://www.bookstackapp.com/) : BookStack is a self-hosted platform for organising and storing information using a simple, WYSIWYG page editor and a searchable database
     
 * 👩‍💻Low code / No code
   * [Budibase](https://github.com/Budibase/budibase) : Low code platform for building business apps and workflows in minutes.
@@ -78,9 +79,10 @@
   * [Slack](https://slack.com/) : Slack is the AI-powered platform for work bringing all of your conversations, apps, and customers together in one place.
   * [Brevo](https://www.brevo.com/fr/products/transactional-email/) : Email transactionnal
     
-* Business Solution
+* 📌Business Solution
   * [Prestashop](https://github.com/PrestaShop/PrestaShop) : PrestaShop is the universal open-source software platform to build your e-commerce solution.
   * [N2F](https://www.n2f.com/fr/note-de-frais/) : Expense report management software (SaaS)
+  * [Microsoft Dynamics AX/365](https://learn.microsoft.com/en-us/dynamicsax-2012/appuser-itpro/introduction-to-microsoft-dynamics-ax-2012) : Microsoft Dynamics AX 2012, an ERP solution for midsize and larger organizations
     
 <!---
 chourdeau/chourdeau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
