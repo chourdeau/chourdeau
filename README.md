@@ -57,8 +57,8 @@
   * [Google Cloud Pub/Sub](https://cloud.google.com/pubsub/docs/overview) : Pub/Sub is used for streaming analytics and data integration pipelines to load and distribute data
     
 * 🗣️Communication
-  * [OVH Telecom](https://www.ovhtelecom.fr/) : OVH Télécom est un opérateur télécom alternatif qui propose des solutions de téléphonie, d'Internet, de messagerie et de communication sécurisée et fiable
-  * [Faxbis/Smsbis](https://www.avmup.com/telephonie-d-entreprise/service-cloud-de-fax-mail) : Service Cloud de Mail-to-Fax / Fax-to-Mail
+  * [OVH Telecom](https://www.ovhtelecom.fr/) : OVH Télécom is an alternative telecom operator offering secure and reliable telephony, Internet, messaging and communication solutions.
+  * [Faxbis/Smsbis](https://www.avmup.com/telephonie-d-entreprise/service-cloud-de-fax-mail) : Cloud Service for Mail-to-Fax / Fax-to-Mail
   * [Microsoft Office 365](https://www.office.com/) : Collaborate for free with online versions of Microsoft Word, PowerPoint, Excel, and OneNote
   * [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software) : Collaborate more effectively with a faster, simpler, smarter, and more flexible Teams
   * [Slack](https://slack.com/) : Slack is the AI-powered platform for work bringing all of your conversations, apps, and customers together in one place.
@@ -68,6 +68,9 @@
   * [Kaspersky Endpoint Security](https://www.kaspersky.fr/enterprise-security/endpoint) : Protect your devices from cyberthreats
   * [Symantec EndPoint Protection](https://www.broadcom.com/products/cybersecurity/endpoint) : Symantec protects all your traditional and mobile endpoint devices with innovative 
   * [Veeam Backup & Replication](https://www.veeam.com/vm-backup-recovery-replication-software.html) : Veeam Backup & Replication. Secure Backup, Clean Recovery and Data Resilience – Delivered Instantly
+  * [Sonicwall TZ Series](https://www.sonicwall.com/products/firewalls/entry-level/) : Protect your small business or branch location from intrusion, malware and ransomware with an easy-to-use, integrated security solution designed specifically for your needs
+  * [Sonicwall NSV Series](https://www.sonicwall.com/products/firewalls/nsv-series/) : SonicWall NSv firewalls are designed to secure the cloud and shield your enterprise from the broadest range of attacks and common network-based exploits.
+  * [Fortinet Firewall](https://www.fortinet.com/products/next-generation-firewall) :  Fortinet next-generation firewall (NGFW) products can provide high-performance & consolidated security
 
 <!---
 chourdeau/chourdeau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
