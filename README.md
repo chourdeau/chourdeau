@@ -70,6 +70,9 @@
   * [Fortinet Firewall](https://www.fortinet.com/products/next-generation-firewall) :  Fortinet next-generation firewall (NGFW) products can provide high-performance & consolidated security
   * [Vade Secure for M365](https://www.vadesecure.com/en/dedicated-email-security-for-o365/) : Vade for M365 is a Microsoft 365 email security solution that provides integrated, low-touch features that are scalable, easy to use and manage
   * [Cloudflare](https://www.cloudflare.com/) : Connect, Protect and Build Everywhere | Cloudflare. Discover the connectivity cloud. Regain control while connecting and protecting your people, apps and data everywhere (CDN)
+ 
+* ⚖️Compliance
+  * [L'atelier RGPD](https://atelier-rgpd.cnil.fr/) : L’atelier RGPD est une formation en ligne gratuite, illimitée et ouverte à tous (Mooc). Elle permet de sensibiliser les professionnels à la protection des données et d’accompagner leur mise en conformité.
 
 * 🗣️Communication
   * [OVH Telecom](https://www.ovhtelecom.fr/) : OVH Télécom is an alternative telecom operator offering secure and reliable telephony, Internet, messaging and communication solutions.
