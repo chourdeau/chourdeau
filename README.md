@@ -86,6 +86,9 @@
   * [Prestashop](https://github.com/PrestaShop/PrestaShop) : PrestaShop is the universal open-source software platform to build your e-commerce solution.
   * [N2F](https://www.n2f.com/fr/note-de-frais/) : Expense report management software (SaaS)
   * [Microsoft Dynamics AX/365](https://learn.microsoft.com/en-us/dynamicsax-2012/appuser-itpro/introduction-to-microsoft-dynamics-ax-2012) : Microsoft Dynamics AX 2012, an ERP solution for midsize and larger organizations
+  * [Divalto Infinity](https://www.divalto.com/logiciel-erp/) : Divalto infinity is a complete ERP software dedicated to SMEs and mid-sized companies. 100% Cloud, it brings together all the tools necessary for your daily life
+  * [Divalto Weavy](https://www.divalto.com/logiciel-crm/) : Divalto weavy for salespeople is the essential CRM to improve the performance of your sales force.
+  * [Sage 100c](https://www.sage.com/fr-fr/produits/sage-100/comptabilite/) : Sage 100 Accounting is an online accounting management solution that allows you to manage the accounting of your SME
   * [Canon Therefore](https://www.canon.fr/business/products/software/therefore/) : Therefore™ information management software is a scalable solution designed to securely store, manage and process all types of business information
     
 <!---
