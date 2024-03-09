@@ -90,6 +90,7 @@
   * [Divalto Weavy](https://www.divalto.com/logiciel-crm/) : Divalto weavy for salespeople is the essential CRM to improve the performance of your sales force.
   * [Sage 100c](https://www.sage.com/fr-fr/produits/sage-100/comptabilite/) : Sage 100 Accounting is an online accounting management solution that allows you to manage the accounting of your SME
   * [Canon Therefore](https://www.canon.fr/business/products/software/therefore/) : Therefore™ information management software is a scalable solution designed to securely store, manage and process all types of business information
+  * [Digiforma](https://www.digiforma.com/) : Digiforma is an all-in-one solution for the administrative, e-learning, quality and commercial management of your training courses.
     
 <!---
 chourdeau/chourdeau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
