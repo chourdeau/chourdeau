@@ -91,7 +91,10 @@
   * [Sage 100c](https://www.sage.com/fr-fr/produits/sage-100/comptabilite/) : Sage 100 Accounting is an online accounting management solution that allows you to manage the accounting of your SME
   * [Canon Therefore](https://www.canon.fr/business/products/software/therefore/) : Therefore™ information management software is a scalable solution designed to securely store, manage and process all types of business information
   * [Digiforma](https://www.digiforma.com/) : Digiforma is an all-in-one solution for the administrative, e-learning, quality and commercial management of your training courses.
-    
+
+* 🧑‍🏫Training
+  * [OpenClassRooms](https://openclassrooms.com/) : Online training and open access courses - OpenClassrooms
+OpenClassrooms is a 100% online school that offers diploma and certification training in various fields
 <!---
 chourdeau/chourdeau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
