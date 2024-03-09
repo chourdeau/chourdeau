@@ -32,7 +32,7 @@
     
 * 🧩Project management
   * [Mantis BT](https://github.com/mantisbt/mantisbt) : MantisBT is a popular free web-based bug tracking system
-  * [Squash TM](https://gitlab.com/henixdevelopment/open-source/squash) : Squash, un outil ergonomique, complet et intuitif pour la gestion de vos tests
+  * [Squash TM](https://gitlab.com/henixdevelopment/open-source/squash) : Squash, an ergonomic, complete and intuitive tool for managing your tests
   * [Microsoft Planner](https://tasks.office.com/) : Microsoft Planner. A simple, visual way to organize teamwork.
   * [Trello](https://trello.com/home.html) : Infinitely flexible. Incredibly productive for teams of all sizes. Trello manages everything, from big project details to micro tasks
   * [Bookstack](https://www.bookstackapp.com/) : BookStack is a self-hosted platform for organising and storing information using a simple, WYSIWYG page editor and a searchable database
