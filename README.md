@@ -44,7 +44,6 @@
   * [Google Cloud SQL](https://cloud.google.com/sql/) : Cloud SQL for MySQL, PostgreSQL, and SQL Server
   * [PostgreSQL](https://www.postgresql.org/) : The World's Most Advanced Open Source Relational Database
   * [MySQL](https://www.mysql.com/fr) : The world's most popular open source database
-  * [Debezium](https://github.com/debezium/debezium) : Change data capture for a variety of databases
   * [SQL Server](https://www.microsoft.com/en-us/sql-server/) : Microsoft SQL Server database
 
 * 🖥️Compute
@@ -59,7 +58,8 @@
     
 * ⚙️Integration data
   * [Google Cloud Pub/Sub](https://cloud.google.com/pubsub/docs/overview) : Pub/Sub is used for streaming analytics and data integration pipelines to load and distribute data
-       
+  * [Debezium](https://github.com/debezium/debezium) : Change data capture for a variety of databases
+
 * 🔑Security
   * [Bitwarden](https://github.com/bitwarden/web) : Bitwarden easily secures all your passwords, passkeys, and sensitive information (Secret management)
   * [Kaspersky Endpoint Security](https://www.kaspersky.fr/enterprise-security/endpoint) : Protect your devices from cyberthreats
@@ -72,7 +72,7 @@
   * [Cloudflare](https://www.cloudflare.com/) : Connect, Protect and Build Everywhere | Cloudflare. Discover the connectivity cloud. Regain control while connecting and protecting your people, apps and data everywhere (CDN)
  
 * ⚖️Compliance
-  * [L'atelier RGPD](https://atelier-rgpd.cnil.fr/) : L’atelier RGPD est une formation en ligne gratuite, illimitée et ouverte à tous (Mooc). Elle permet de sensibiliser les professionnels à la protection des données et d’accompagner leur mise en conformité.
+  * [L'atelier RGPD](https://atelier-rgpd.cnil.fr/) : The GDPR workshop is a free, unlimited online training open to all (Mooc). It makes professionals aware of data protection and supports their compliance.
 
 * 🗣️Communication
   * [OVH Telecom](https://www.ovhtelecom.fr/) : OVH Télécom is an alternative telecom operator offering secure and reliable telephony, Internet, messaging and communication solutions.
