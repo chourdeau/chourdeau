@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on software developpement
 - 📫 How to reach me : cedric.hourdeau@gmail.com
 
-# Library
+# 📚Library
 
 * ✨[Discovery Discipline](https://discovery-discipline.com/), Rémi Guyot - Tristan Charvillat, Editions Thiga
 * [Lean Startup](https://www.amazon.fr/Lean-start-up-Eric-Ries/dp/2744065080), Eris Ries, Editions Pearson
@@ -16,7 +16,7 @@
 * [Mémoires vives](https://www.amazon.fr/M%C3%A9moires-Vives-Edward-Snowden/dp/2021441040), Edward Snowden, Editions Seuil
 * [Steve Jobs](https://www.amazon.fr/Steve-Jobs-Walter-Isaacson/dp/2709638320), Walter Isaacson, Editions JCLattès
 
-# Podcast
+# 🎧Podcast
 
 * [Clé de voute](https://open.spotify.com/show/5tpiUiSrTL072tVI9561fv?si=1cf92252fff64102) : Timothé Frin - Training, methods, tools and tips to get your Product off the ground.
 * [Le Podcast AWS en Français](https://open.spotify.com/show/3umN5VMtFF433w1pTILetT?si=47c29f9de9af44bc) : Sébastien Stormacq - Find out about new services or features, interviews with AWS partners or customers.
@@ -24,7 +24,7 @@
 * [On part en prod](https://open.spotify.com/show/2gOOKWGopaZlieRTHso4qi?si=d3c803f0586c4a94) : Julien Lefebvre - The tech' podcast to help you understand how to make a success of your IT projects.
 * [SaaS Club](https://open.spotify.com/show/34TFvFIn0IjqKQn1h8lUAS?si=9e2d89dce46e4d3a) : Eric Seclet - The podcast that shares the winning recipes of the French SaaS industry
 
-# Deployed - Used !
+# 🚀Deployed - Used
 * 🎛️Monitoring
   * [Netdata](https://github.com/netdata/netdata) : The open-source observability platform everyone needs!
   * [Zabbix](https://github.com/zabbix/zabbix) : Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.
