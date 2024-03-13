@@ -16,6 +16,14 @@
 * [Mémoires vives](https://www.amazon.fr/M%C3%A9moires-Vives-Edward-Snowden/dp/2021441040), Edward Snowden, Editions Seuil
 * [Steve Jobs](https://www.amazon.fr/Steve-Jobs-Walter-Isaacson/dp/2709638320), Walter Isaacson, Editions JCLattès
 
+# Podcast
+
+* [Clé de voute](https://open.spotify.com/show/5tpiUiSrTL072tVI9561fv?si=1cf92252fff64102) : Timothé Frin - Training, methods, tools and tips to get your Product off the ground.
+* [Le Podcast AWS en Français](https://open.spotify.com/show/3umN5VMtFF433w1pTILetT?si=47c29f9de9af44bc) : Sébastien Stormacq - Find out about new services or features, interviews with AWS partners or customers.
+* [IFTTD - If This Then Dev](https://open.spotify.com/show/7nda7u8PGTU2AfpLZ9ZR9Z?si=885e0073bac847f1) : Bruno Soulez - If This Then Dev is the D.E.V. podcast: Different, Extraordinary and Visionary. A podcast that wants to solve the problem before moving on to dev.
+* [On part en prod](https://open.spotify.com/show/2gOOKWGopaZlieRTHso4qi?si=d3c803f0586c4a94) : Julien Lefebvre - The tech' podcast to help you understand how to make a success of your IT projects.
+* [SaaS Club](https://open.spotify.com/show/34TFvFIn0IjqKQn1h8lUAS?si=9e2d89dce46e4d3a) : Eric Seclet - The podcast that shares the winning recipes of the French SaaS industry
+
 # Deployed - Used !
 * 🎛️Monitoring
   * [Netdata](https://github.com/netdata/netdata) : The open-source observability platform everyone needs!
