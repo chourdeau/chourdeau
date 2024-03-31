@@ -1,7 +1,7 @@
 # 👨🏻Me
 - 👋 Hi, I’m @chourdeau
 - 👀 I’m interested in high technology, saas, integration, cloud technology
-- 🌱 I’m currently learning Thinking design, UX desing...
+- 🌱 I’m currently learning Learn to learn...
 - 💞️ I’m looking to collaborate on software developpement
 - 📫 How to reach me : cedric.hourdeau@gmail.com
 
