@@ -34,6 +34,7 @@
 * 🖇️Operations
   * [Glpi](https://github.com/glpi-project/glpi) : GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
   * [OCS-Inventory](https://github.com/OCSInventory-NG/OCSInventory-Server) : Communication server of OCS Inventory
+  * [Draw.io](https://app.diagrams.net/) : Security-first diagramming for teams. Bring your storage to our online tool, or save locally with the desktop
   * [Teamviewer](https://www.teamviewer.com/en-us/) : Remote access and work. Work from anywhere with full access to any device technologies for attack surface reduction, attack prevention, breach prevention...
   
 * 📊Business Intelligence
