@@ -72,6 +72,9 @@
   * [Google Cloud Pub/Sub](https://cloud.google.com/pubsub/docs/overview) : Pub/Sub is used for streaming analytics and data integration pipelines to load and distribute data
   * [Debezium](https://github.com/debezium/debezium) : Change data capture for a variety of databases
 
+* 🔎Search
+  * [Meilisearch](https://www.meilisearch.com/) : About A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
+
 * 🔑Security
   * [Bitwarden](https://github.com/bitwarden/web) : Bitwarden easily secures all your passwords, passkeys, and sensitive information (Secret management)
   * [Kaspersky Endpoint Security](https://www.kaspersky.fr/enterprise-security/endpoint) : Protect your devices from cyberthreats
