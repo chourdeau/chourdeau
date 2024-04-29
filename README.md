@@ -96,6 +96,7 @@
   * [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software) : Collaborate more effectively with a faster, simpler, smarter, and more flexible Teams
   * [Slack](https://slack.com/) : Slack is the AI-powered platform for work bringing all of your conversations, apps, and customers together in one place.
   * [Brevo](https://www.brevo.com/fr/products/transactional-email/) : Email transactionnal
+  * [BoostMyMail](https://www.boostmymail.com/en/) : Boost your communication with your email signatures
     
 * 📌Business Solution
   * [Prestashop](https://github.com/PrestaShop/PrestaShop) : PrestaShop is the universal open-source software platform to build your e-commerce solution.
