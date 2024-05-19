@@ -1,6 +1,8 @@
 **Table des matières**
-[Entretien de coaching](https://github.com/chourdeau/chourdeau/blob/main/MANAGEMENT.md#entretien-de-coaching)
 
+* [Entretien de coaching](https://github.com/chourdeau/chourdeau/blob/main/MANAGEMENT.md#entretien-de-coaching)
+* [Entretien de sortie/départ](https://github.com/chourdeau/chourdeau/blob/main/MANAGEMENT.md#entretien-de-sortied%C3%A9part-audit-gratuit-et-grin%C3%A7ant)
+* [Qu'en penses-tu ? Que proposes-tu ?]()
 
 # Entretien de coaching
 ## Introduction
