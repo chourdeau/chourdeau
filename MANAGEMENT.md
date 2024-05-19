@@ -1,3 +1,7 @@
+**Table des matières**
+[Entretien de coaching](https://github.com/chourdeau/chourdeau/blob/main/MANAGEMENT.md#entretien-de-coaching)
+
+
 # Entretien de coaching
 ## Introduction
 Objectifs : 
