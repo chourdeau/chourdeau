@@ -3,10 +3,11 @@
 Objectifs : 
 * investir sur la qualité de la relation humaine ;
 * créer une "intimité" de la relation ;
-* accompagnement individualisé
+* accompagnement individualisé ; 
+* **anticiper** : arrêter de subir des choses qui sont interprétés comme des dysfonctionnements, départs non prévu, problème de comportement, problème de cadrage. Agir en amont.
 
 Quoi :
-* Manager/Managé.
+* Manager/Managé : à **adapter à chaque profil**
 * Ritualisé, bloqué dans nos agendas respectifs
 * A chaque changement de saison (la nature change à chaque saison, donc l'homme aussi) / Fréquence minimum
 * On ne parle pas "business", mais de tout le reste (Energie, envie, plaisir...)
