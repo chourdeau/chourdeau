@@ -1,8 +1,19 @@
 **Table des matières**
 
+* [Rapport d'étonnement 333]()
 * [Entretien de coaching](https://github.com/chourdeau/chourdeau/blob/main/MANAGEMENT.md#entretien-de-coaching)
+* [10 habitudes managériales à avoir]()
 * [Entretien de sortie/départ](https://github.com/chourdeau/chourdeau/blob/main/MANAGEMENT.md#entretien-de-sortied%C3%A9part-audit-gratuit-et-grin%C3%A7ant)
 * [Qu'en penses-tu ? Que proposes-tu ?](https://github.com/chourdeau/chourdeau/blob/main/MANAGEMENT.md#quen-penses-tu--que-proposes-tu-)
+
+# Rapport d'étonnement "333"
+
+Plutôt que de tout vouloir dire d’un coup de façon très directe, opter pour ce fameux 333, c’est-à-dire un rapport d’étonnement à **trois jours**, à **trois semaines** et à **trois mois**. 
+* Trois jours : livrer tes premières impressions afin d’alerter ton N+1 sur les éléments qui mériteraient d’être améliorés (par exemple : un outil pas assez performant, un temps d’intégration trop court…)
+* Le second et le troisième permettront, quant à eux, d’avoir plus de recul sur la mission en elle-même et sur les projets
+
+Permettre au collaborateur, ainsi qu’à son supérieur, de trouver des solutions pour mieux travailler ensemble de façon très concrète et étalée dans le temps, pour plus d'efficacité
+Laisser le temps à chacun de trouver des pistes d’amélioration.
 
 # Entretien de coaching
 ## Introduction
@@ -49,6 +60,19 @@
 * Quel projet de formation pourrait t'être utile pour les prochains mois ?
 * Quelle est la nouvelle collaboration que tu aimerais développer ?
 * Sur une échelle de 1 à 10, à quel point le job que tu occupes aujourd'hui te convient ?
+
+# 10 habitudes managériales à avoir
+
+* Avoir une **vision claire** de ce qu'il souhaite construire avec son équipe (Ne pas réagir au jour le jour)
+* Poser un **cadre de fonctionnement clair et rassurant**, ou chacun sait ce qu'il a à faire (règles et valeurs, qui fait quoi, réduire les zones de flou = zone de tension, anxiogène)
+* Savoir à quel point il est important de **fédérer** et créer une **équipe soudée** entre eux et autour du manager
+* **Connaitre** très bien chaque membre de son équipe (Forces, axes d'amélioration, ce qui les motives ou les stresse, leur mode de communication, souhaite d'évolution pro, situation perso)
+* **Assumer pleinement la responsabilité** de ces décisions (actions et communications, ce qui est réalisé par son équipe)
+*  **Savoir filtrer** les informations (Ne pas tout relayer à son équipe ==> contre-productif, augmentation de la charge mentale)
+*  Etablir dès le début des **standards d'exigences élevés** (développer des habitudes et état d'esprit d'excellence => augmenter le potentiel)
+*  Etre en recherche constante d'amélioration (pour son équipe, pour les process de fonctionnement, pour lui même / Etablir un état d'esprit d'apprentissage constant). Se méfier du "On n'a toujours fait commme çà"
+*  Ne pas perdre de temps avec les problèmes (ressaser les pb est contre-productif et anxiogène
+*  Maîtriser l'art du coaching et feedbacks (faire grandir son équipe, écoute active, poser les bonnes questions pour que les solutions emergent de son équipe
 
 # Entretien de sortie/départ (Audit gratuit et grinçant)
 
