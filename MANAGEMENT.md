@@ -44,4 +44,11 @@ Quoi :
 * Quelle est la nouvelle collaboration que tu aimerais développer ?
 * Sur une échelle de 1 à 10, à quel point le job que tu occupes aujourd'hui te convient ?
 
+# Entretien de sortie/départ
 
+# "Qu'en penses-tu ?" "Que proposes-tu ?"
+
+* Confucius : « Quand un homme a faim, mieux vaut lui apprendre à pêcher que de lui donner un poisson »
+* Arrêter d'être "fournisseur de poisson"
+* Dynamique à mettre en place avec ses managés
+* Nous avons été habitué (à titre privé) à protéger nos enfants (tricher pour la fève du roi) / Parents "Hélicoptère" - Syndrôme "Mario Bross" (manette, touche B)
