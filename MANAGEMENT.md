@@ -33,7 +33,7 @@ Quoi :
 ### Point sur les 3 mois à venir
 * Y a-t-il un sujet pro/perso qui pourrait survenir et qui impacterait ton organisation ?
 * Quel challenge te stimumle le plus pour les 3 mois à venir ?
-* Où tu en es en terme d'énergie, en terme d'envie, en terme de plaisir ?
+* Où tu en es en terme d'énergie, en terme d'envie, en terme de plaisir, de motivation ?
 * Ca te plaît encore comme job ce que tu fais ? çà te donne encore envie ?
 * Quelle est la nouvelle compétence que tu aimerais développer ?
 * Qu'est ce qui t'inquiète le plus pour le trimestre à venir ?
