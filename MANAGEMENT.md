@@ -44,7 +44,53 @@ Quoi :
 * Quelle est la nouvelle collaboration que tu aimerais développer ?
 * Sur une échelle de 1 à 10, à quel point le job que tu occupes aujourd'hui te convient ?
 
-# Entretien de sortie/départ
+# Entretien de sortie/départ (Audit gratuit et grinçant)
+
+Départ = déception ou colère de la part du manager ==> Attention.
+Le collaborateur est content de partir, il va pouvoir me dire tout ce qui ne va pas dans mon entreprise/mon management, tout dans les détails.
+Si le départ ne se passe pas bien, la 1ère chose que va faire le collaborateur c'est allez sur les réseaux sociaux et elle va bâcher mon entreprise => **e-reputation**
+Courage managérial - Pour tout départ (volontaire ou licenciement, car il y a des choses à dire)
+
+## Comment ?
+* 30 - 45 minutes, pas plus
+* Quelque chose de vrai !
+* Quelque chose de structuré ! Où je ne me justifie pas
+* On sonde tout !
+* 70% Ce qui ne va pas / 30 % les bons souvenirs
+* **Questions ouvertes/puissantes**
+  * Pas de "Y a-t-il ?", "Est-ce que ?", "Pourquoi ?"
+  * Mais "En quoi" ? "Qu'est-ce que ?"
+  
+## Exemples de questions à poser :
+* Si j'avais une baguette magique, qu'est-ce que j'aurai pu faire apparaître pour te faire rester ?
+* Quel est le truc que j'ai bien raté avec toi ?
+* Quelle(s) compétence(s) tu n'as pas pu obtenir chez nous ?
+* Tu croises ton successeur, quel conseil lui donnes-tu pour qu'il ne revive pas la même chose que toi ?
+* Si tu avais pu choisir un autre manager que moi, qui aurais-tu choisi ?
+* Quelle est la qualité que tu apprécies le plus chez cette personne ?
+* En quoi mon manque de cette qualité a pesé dans ta décision de partir ?
+* Quelle a été ma principale erreur de manager avec toi ?
+* Qu'est ce que tu vas chercher dans ta prochaine entreprise et que tu n'as pas eu ici ?
+* Quel a été le moment le plus stressant pour toi ?
+* Quelle émotion as-tu ressentie au moment de cette décision ?
+* Quel a été le principal décalage entre la proposition de poste faite et ton vécu ?
+* Quel signe de reconnaissance t'a manqué ?
+* Quelle est la valeur affichée qu'il faut que l'on supprime car elle n'a pas fait écho chez toi ?
+* Qu'est ce que j'aurai pu faire pour que tu puisses m'annoncer plus tôt ton souhait de partir ?
+* A quel moment tu as pris ta décision de partir ?
+* Quel a été le principal dysfonctionnement de ton parcours d'intégration ?
+* Sur une échelle de 1 à 10, à quel point ton salaire a pesé dans ton intention de partir ?
+* Qu'est ce que tu aurais aimé voir de différent dans ma posture de manager ?
+* Sur les 3 derniers mois, à quel moment n'ai-je pas été au RDV ?
+* Quelle est la question que je ne t'ai pas posée et que tu aimerais que je te pose maintenant ?
+* Si tu devais résumer ton expérience ici en une phrase, que dirais-tu ?
+
+## Et après le départ : les 3 coups de fils ? 
+* 1 mois
+* 3 mois
+* 6 mois
+
+Syndrôme du collaborateur "boomrang" (retour à l'entreprise). Réseautage. e-Reputation
 
 # "Qu'en penses-tu ?" "Que proposes-tu ?"
 
