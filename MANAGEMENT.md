@@ -2,17 +2,17 @@
 
 * [Entretien de coaching](https://github.com/chourdeau/chourdeau/blob/main/MANAGEMENT.md#entretien-de-coaching)
 * [Entretien de sortie/départ](https://github.com/chourdeau/chourdeau/blob/main/MANAGEMENT.md#entretien-de-sortied%C3%A9part-audit-gratuit-et-grin%C3%A7ant)
-* [Qu'en penses-tu ? Que proposes-tu ?]()
+* [Qu'en penses-tu ? Que proposes-tu ?](https://github.com/chourdeau/chourdeau/blob/main/MANAGEMENT.md#quen-penses-tu--que-proposes-tu-)
 
 # Entretien de coaching
 ## Introduction
-Objectifs : 
-* investir sur la qualité de la relation humaine ;
+**Objectifs** : 
+* 🤝investir sur la qualité de la relation humaine ;
 * créer une "intimité" de la relation ;
 * accompagnement individualisé ; 
-* **anticiper** : arrêter de subir des choses qui sont interprétés comme des dysfonctionnements, départs non prévu, problème de comportement, problème de cadrage. Agir en amont.
+* 📆 **anticiper** : arrêter de subir des choses qui sont interprétés comme des dysfonctionnements, départs non prévu, problème de comportement, problème de cadrage. Agir en amont.
 
-Quoi :
+**Quoi** :
 * Manager/Managé : à **adapter à chaque profil**
 * Ritualisé, bloqué dans nos agendas respectifs
 * A chaque changement de saison (la nature change à chaque saison, donc l'homme aussi) / Fréquence minimum
