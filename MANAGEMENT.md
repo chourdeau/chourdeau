@@ -15,7 +15,7 @@ Plutôt que de tout vouloir dire d’un coup de façon très directe, opter pour
 Permettre au collaborateur, ainsi qu’à son supérieur, de trouver des solutions pour mieux travailler ensemble de façon très concrète et étalée dans le temps, pour plus d'efficacité
 Laisser le temps à chacun de trouver des pistes d’amélioration.
 
-# Entretien de coaching
+# Entretien de saison/coaching
 ## Introduction
 **Objectifs** : 
 * 🤝investir sur la qualité de la relation humaine ;
