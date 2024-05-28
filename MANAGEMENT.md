@@ -50,7 +50,7 @@ Laisser le temps à chacun de trouver des pistes d’amélioration.
 
 ### Point sur les 3 mois à venir (Energie, envie, motivation, perspectives, charge de travail et organisation)
 * Y a-t-il un sujet pro/perso qui pourrait survenir et qui impacterait ton organisation ?
-* Quel challenge te stimumle le plus pour les 3 mois à venir ?
+* Quel challenge te stimule le plus pour les 3 mois à venir ?
 * Où tu en es en terme d'énergie, en terme d'envie, en terme de plaisir, de motivation ?
 * Ca te plaît encore comme job ce que tu fais ? çà te donne encore envie ?
 * Quelle est la nouvelle compétence que tu aimerais développer ?
