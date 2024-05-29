@@ -115,6 +115,26 @@ Courage managérial - Pour tout départ (volontaire ou licenciement, car il y a 
 * Quelle est la question que je ne t'ai pas posée et que tu aimerais que je te pose maintenant ?
 * Si tu devais résumer ton expérience ici en une phrase, que dirais-tu ?
 
+## Questionnaire Handipharm :
+* Accueil & intégration
+  * Que pensez-vous de la qualité de votre recrutement (phase préalable à votre intégration : contact, entretien, …) ?
+  * Que pensez-vous de la qualité de votre intégration ?
+  * Qu’est-ce qui a pu vous manquer pour que celle-ci réponde à vos attentes ?
+* Poste - Service
+  * Qu’est-ce qui vous a le plus étonné dans votre poste ?
+  * Que pensez-vous de l’intégration au sein de votre service / agence ?
+  * Qu’est-ce qui vous a manqué pour tenir votre poste au quotidien ?
+* Environnement de travail
+  * Le matériel, les outils de travail sont-ils en adéquation avec le poste ?
+  * L’environnement de travail est-il propice pour bien effectuer les missions ?
+* L'encadrement - Relation avec le manager
+  * Que pensez-vous de l’encadrement reçu, de la relation avec votre manager ?
+  * Qu’auriez-vous attendu de différent ?
+* Vision globale
+  *  Qu’est que qui selon vous devrait être changé dans les pratiques d’intégration actuelles ?
+
+
+
 ## Et après le départ : les 3 coups de fils ? 
 * 1 mois
 * 3 mois
