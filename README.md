@@ -7,6 +7,7 @@
 
 # 📚Library
 
+* [La méthode Running Lean](https://www.amazon.fr/m%C3%A9thode-Running-Lean-Transformer-succ%C3%A8s/dp/2354561237), Ash Maurya, Diateino
 * [Doublez votre vitesse de lecture en 30 jours](https://www.amazon.fr/Doublez-votre-vitesse-lecture-jours/dp/2379353131), Jérôme Hoarau/Nicolas Lisiak, Editions Alisio
 * [Comment se faire des amis](https://www.amazon.fr/Comment-faire-amis-Dale-Carnegie/dp/2253009105), Dale Carnegie, Le Livre de Poche
 * ✨[Discovery Discipline](https://discovery-discipline.com/), Rémi Guyot - Tristan Charvillat, Editions Thiga
