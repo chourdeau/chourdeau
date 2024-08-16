@@ -7,6 +7,7 @@
 
 # 📚Library
 
+* [Innover ou disparaître](https://www.dunod.com/entreprise-et-economie/innover-ou-disparaitre-lab-pour-remettre-innovation-au-coeur-entreprise), Olivier Laborde, Editions Dunod
 * [Stratégie Océan Bleu](https://www.amazon.fr/dp/2744066303?_encoding=UTF8&psc=1&ref_=cm_sw_r_cp_ud_dp_58SPAJJF61RM8367S8MG), W. Chan Kim/Renée Mauborne, Editions Pearson
 * [La méthode Running Lean](https://www.amazon.fr/m%C3%A9thode-Running-Lean-Transformer-succ%C3%A8s/dp/2354561237), Ash Maurya, Diateino
 * [Doublez votre vitesse de lecture en 30 jours](https://www.amazon.fr/Doublez-votre-vitesse-lecture-jours/dp/2379353131), Jérôme Hoarau/Nicolas Lisiak, Editions Alisio
