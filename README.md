@@ -13,7 +13,7 @@
 * [Doublez votre vitesse de lecture en 30 jours](https://www.amazon.fr/Doublez-votre-vitesse-lecture-jours/dp/2379353131), Jérôme Hoarau/Nicolas Lisiak, Editions Alisio
 * [Comment se faire des amis](https://www.amazon.fr/Comment-faire-amis-Dale-Carnegie/dp/2253009105), Dale Carnegie, Le Livre de Poche
 * ✨[Discovery Discipline](https://discovery-discipline.com/), Rémi Guyot - Tristan Charvillat, Editions Thiga
-* [Lean Startup](https://www.amazon.fr/Lean-start-up-Eric-Ries/dp/2744065080), Eris Ries, Editions Pearson
+* ✨[Lean Startup](https://www.amazon.fr/Lean-start-up-Eric-Ries/dp/2744065080), Eris Ries, Editions Pearson
 * ✨[Optimisez votre équipe](https://www.amazon.fr/Optimisez-votre-%C3%A9quipe-Patrick-Lencioni/dp/2892256038), Patrick Lencioni, Editions Un Monde Différent (UMD)
 * ✨[Mission Blablacar](https://missionblablacar.com/), Frédéric Mazzela - Laure Claire - Benoît Reillier, Editions Eyrolles
 * [Disruption](https://www.amazon.fr/Disruption-Intelligence-artificielle-salariat-augment%C3%A9e/dp/2100804278), Stéphane Mallard, Editions Dunod
