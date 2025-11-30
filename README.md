@@ -1,12 +1,13 @@
 # 👨🏻Me
 - 👋 Hi, I’m @chourdeau
 - 👀 I’m interested in high technology, saas, integration, cloud technology
-- 🌱 I’m currently learning how read faster...
+- 🌱 I’m currently learning how to manage my money better...
 - 💞️ I’m looking to collaborate on software developpement
 - 📫 How to reach me : cedric.hourdeau@gmail.com
 
 # 📚Library
 
+* [Chief Data Officer "Pratiques, outils et perspectives"](https://www.amazon.fr/Chief-Data-Officer-Pratiques-perspectives/dp/2212573758), Gilbert Ton & Alain Yen-Pon, Editions Eyrollles
 * [Prenez votre argent en main](https://amzn.eu/d/er7Nt7a), Matthias Baccino, Editions Michel Lafon
 * [Influence et manipulation : la psychologie de la persuasion](https://www.amazon.fr/dp/2412049696?_encoding=UTF8&psc=1&ref_=cm_sw_r_cp_ud_dp_DZDBQ4VSAAD9KP78CJPP&starsLeft=1), Robert B. Cialdini, Editions First
 * [Innover ou disparaître](https://www.dunod.com/entreprise-et-economie/innover-ou-disparaitre-lab-pour-remettre-innovation-au-coeur-entreprise), Olivier Laborde, Editions Dunod
@@ -113,6 +114,7 @@
   * [Sage 100c](https://www.sage.com/fr-fr/produits/sage-100/comptabilite/) : Sage 100 Accounting is an online accounting management solution that allows you to manage the accounting of your SME
   * [Canon Therefore](https://www.canon.fr/business/products/software/therefore/) : Therefore™ information management software is a scalable solution designed to securely store, manage and process all types of business information
   * [Digiforma](https://www.digiforma.com/) : Digiforma is an all-in-one solution for the administrative, e-learning, quality and commercial management of your training courses.
+  * [Hermes App](https://www.hermesapps.com/) : Field Service Management (Hermes Link) and vehicle geolocation service (Hermes Fleet)
 
 * 🧑‍🏫Training
   * [OpenClassRooms](https://openclassrooms.com/) : Online training and open access courses - OpenClassrooms
