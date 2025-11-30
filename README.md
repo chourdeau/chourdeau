@@ -118,7 +118,9 @@
 
 * 🧑‍🏫Training
   * [OpenClassRooms](https://openclassrooms.com/) : Online training and open access courses - OpenClassrooms
-OpenClassrooms is a 100% online school that offers diploma and certification training in various fields
+  OpenClassrooms is a 100% online school that offers diploma and certification training in various fields
+  * [Germe](https://www.germe.com/) : GERME is a network of managers who seek inspiration and innovation through training, collective intelligence tools, and events.
+
 <!---
 chourdeau/chourdeau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
