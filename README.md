@@ -107,6 +107,7 @@
   * [BoostMyMail](https://www.boostmymail.com/en/) : Boost your communication with your email signatures
     
 * 📌Business Solution
+  * [ODOO](https://www.odoo.com/fr_FR) : Suite d'applications open source couvrant tous les besoins de votre entreprise : CRM, eCommerce, Comptabilité, Inventaire, Point de Vente, Gestion ..
   * [Prestashop](https://github.com/PrestaShop/PrestaShop) : PrestaShop is the universal open-source software platform to build your e-commerce solution.
   * [N2F](https://www.n2f.com/fr/note-de-frais/) : Expense report management software (SaaS)
   * [Microsoft Dynamics AX/365](https://learn.microsoft.com/en-us/dynamicsax-2012/appuser-itpro/introduction-to-microsoft-dynamics-ax-2012) : Microsoft Dynamics AX 2012, an ERP solution for midsize and larger organizations
