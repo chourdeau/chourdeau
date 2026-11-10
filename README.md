@@ -34,6 +34,8 @@
 * [IFTTD - If This Then Dev](https://open.spotify.com/show/7nda7u8PGTU2AfpLZ9ZR9Z?si=885e0073bac847f1) : Bruno Soulez - If This Then Dev is the D.E.V. podcast: Different, Extraordinary and Visionary. A podcast that wants to solve the problem before moving on to dev.
 * [On part en prod](https://open.spotify.com/show/2gOOKWGopaZlieRTHso4qi?si=d3c803f0586c4a94) : Julien Lefebvre - The tech' podcast to help you understand how to make a success of your IT projects.
 * [SaaS Club](https://open.spotify.com/show/34TFvFIn0IjqKQn1h8lUAS?si=9e2d89dce46e4d3a) : Eric Seclet - The podcast that shares the winning recipes of the French SaaS industry
+* [Matthias BACCINO](https://open.spotify.com/show/033mghG4DXr2l8o2wOgeZ2?si=57e8663f7d1b4a75) : Matthias Baccino - Take Control of Your Money
+* [La Martingale](https://open.spotify.com/show/33GxJdsxabjNWHl6whIsiS?si=750df4969147427c) : La Martingale - The resource for HOW to invest and manage your finances. Our motto is simple: Take control of your money!
 
 # 🚀Deployed - Used
 * 🎛️Monitoring
@@ -56,6 +58,7 @@
   * [Microsoft Planner](https://tasks.office.com/) : Microsoft Planner. A simple, visual way to organize teamwork.
   * [Trello](https://trello.com/home.html) : Infinitely flexible. Incredibly productive for teams of all sizes. Trello manages everything, from big project details to micro tasks
   * [Bookstack](https://www.bookstackapp.com/) : BookStack is a self-hosted platform for organising and storing information using a simple, WYSIWYG page editor and a searchable database
+  * [OpenProject](https://www.openproject.org/fr/) : Open source project management software. Powerful classic, agile or hybrid project management in a secure environment.
     
 * 👩‍💻Low code / No code
   * [Budibase](https://github.com/Budibase/budibase) : Low code platform for building business apps and workflows in minutes.
