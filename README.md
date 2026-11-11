@@ -124,7 +124,8 @@
 * 🧑‍🏫Training
   * [OpenClassRooms](https://openclassrooms.com/) : Online training and open access courses - OpenClassrooms
   OpenClassrooms is a 100% online school that offers diploma and certification training in various fields
-  * [Germe](https://www.germe.com/) : GERME is a network of managers who seek inspiration and innovation through training, collective intelligence tools, and events.
+  * [GERME](https://www.germe.com/) : GERME is a network of managers who seek inspiration and innovation through training, collective intelligence tools, and events.
+  * [ADN Ouest](https://www.adnouest.org/) : At the Heart of the Digital Sector in Western France: ADN Ouest runs the largest network of digital professionals in Brittany and the Pays de la Loire region
 
 <!---
 chourdeau/chourdeau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
