@@ -9,7 +9,7 @@
 
 * [Pensées distinguées : les mots justes indispensables à la nuance](https://www.amazon.fr/Pens%C3%A9es-distingu%C3%A9es-Julia-Fun%C3%A8s-ebook/dp/B0GX35RDY5), Julia de Funès, Editions de l'Observatoire
 * [Chief Data Officer "Pratiques, outils et perspectives"](https://www.amazon.fr/Chief-Data-Officer-Pratiques-perspectives/dp/2212573758), Gilbert Ton & Alain Yen-Pon, Editions Eyrollles
-* [Prenez votre argent en main](https://amzn.eu/d/er7Nt7a), Matthias Baccino, Editions Michel Lafon
+* ✨[Prenez votre argent en main](https://amzn.eu/d/er7Nt7a), Matthias Baccino, Editions Michel Lafon
 * [Influence et manipulation : la psychologie de la persuasion](https://www.amazon.fr/dp/2412049696?_encoding=UTF8&psc=1&ref_=cm_sw_r_cp_ud_dp_DZDBQ4VSAAD9KP78CJPP&starsLeft=1), Robert B. Cialdini, Editions First
 * [Innover ou disparaître](https://www.dunod.com/entreprise-et-economie/innover-ou-disparaitre-lab-pour-remettre-innovation-au-coeur-entreprise), Olivier Laborde, Editions Dunod
 * [Stratégie Océan Bleu](https://www.amazon.fr/dp/2744066303?_encoding=UTF8&psc=1&ref_=cm_sw_r_cp_ud_dp_58SPAJJF61RM8367S8MG), W. Chan Kim/Renée Mauborne, Editions Pearson
